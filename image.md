@@ -5,4 +5,4 @@
 layout: home
 ---
 image here.
-<img src = "/assets/imgtest.png">
+<img src = "/assets/testimg.png">
