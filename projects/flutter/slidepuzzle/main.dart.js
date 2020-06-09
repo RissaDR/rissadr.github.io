@@ -38154,7 +38154,7 @@ l=C.bE.h(0,500)
 k=u.E
 return new F.of(j,new M.oK(new E.m8(new T.hV(C.aI,i,i,p,i),q,new P.ah(1/0,56),i),T.a_8(H.b([T.Yt(H.b([new T.u9(1,C.k6,new T.dY(o,i,new B.uy(new B.Kf(3,0,0,1),new G.Kb(!0,!0,!0,t,s),new V.aH(25,25,25,25),C.q,!1,i,!0,new L.vi(i),!1,i,r,C.aq,C.w6,i),i),i),new L.ya(N.Tv(n,C.bE.h(0,500),new F.M7(j),new X.bH(new Y.eF(l,1,C.N),new K.bh(m,m,m,m))),j.f,i),new T.dY(i,F.cc(a,!1).a.b*0.1,i,i)],k),C.jY,C.ot)],k),C.jY,C.ou,C.l9),i),i)}}
 F.M7.prototype={
-$0:function(){C.aW.LK(window,"https://github.com/RissaDR/slide-puzzle/tree/web/","_blank")},
+$0:function(){C.aW.LK(window,"https://rissadr.github.io/projects/flutter/slidepuzzle/moreaboutthis.html","_blank")},
 $S:0}
 N.lH.prototype={
 gl:function(a){return this.b},
