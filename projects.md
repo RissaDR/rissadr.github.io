@@ -1,4 +1,4 @@
-<a href="master/index.html">Back to index</a>
+<a href="/index.html">Back to index</a>
 
 ## Projects
 
